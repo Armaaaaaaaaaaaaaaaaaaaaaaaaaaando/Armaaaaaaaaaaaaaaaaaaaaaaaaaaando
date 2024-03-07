@@ -6,9 +6,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armaaaaaaaaaaaaaaaaaaaaaaaaaaando&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armaaaaaaaaaaaaaaaaaaaaaaaaaaando&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaaaaaaaaaaaaaaaaaaaaaaaaaaando&layout=compact&theme=dracula&title_color=ff79c6)](https://github.com/Armaaaaaaaaaaaaaaaaaaaaaaaaaaando/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaaaaaaaaaaaaaaaaaaaaaaaaaaando&layout=compact&theme=dracula&title_color=ff79c6)](https://github.com/Armaaaaaaaaaaaaaaaaaaaaaaaaaaando/github-readme-stats)
+
 
 <div style="display:inline_block"><br>
   <img align="center" akt="Armando-python" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
