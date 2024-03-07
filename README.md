@@ -8,6 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armaaaaaaaaaaaaaaaaaaaaaaaaaaando&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaaaaaaaaaaaaaaaaaaaaaaaaaaando&layout=compact)](https://github.com/Armaaaaaaaaaaaaaaaaaaaaaaaaaaando/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaaaaaaaaaaaaaaaaaaaaaaaaaaando&layout=compact&theme=dracula&title_color=ff79c6)](https://github.com/Armaaaaaaaaaaaaaaaaaaaaaaaaaaando/github-readme-stats)
+
 
 
