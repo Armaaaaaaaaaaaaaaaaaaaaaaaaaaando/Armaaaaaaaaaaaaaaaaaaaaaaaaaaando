@@ -1,8 +1,15 @@
 ### Hi there 👋
 - 📚 I'm currently studying Computer engineering at college
-- 🌱 I’m currently learning Java (OOP) 
-- 🤓 I'm familiar with data structure
-- 💻 I'm familiar with C, Python and Java
+- 🌱 I’m currently diving deeper into full-stack development, with a focus on back-end technologies.
+- 🤓 I'm familiar with data structures and OOP.
+- 💻 I'm familiar with C, Python, and Java.
+
+Backend skills:
+- Node.js, TypeScript, and JavaScript
+- PostgreSQL with Beekeeper Studio and Insomnia/Postman for APIs
+
+Frontend skills:
+- React.js, Next.js, and Axios
 
 
 
